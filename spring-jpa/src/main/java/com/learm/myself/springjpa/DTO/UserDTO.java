@@ -1,4 +1,4 @@
-package com.learm.myself.springjpa;
+package com.learm.myself.springjpa.DTO;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

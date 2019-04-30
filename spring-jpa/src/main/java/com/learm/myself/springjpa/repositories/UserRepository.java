@@ -1,6 +1,6 @@
 package com.learm.myself.springjpa.repositories;
 
-import com.learm.myself.springjpa.UserDTO;
+import com.learm.myself.springjpa.DTO.UserDTO;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;

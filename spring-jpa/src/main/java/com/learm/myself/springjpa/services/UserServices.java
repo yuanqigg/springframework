@@ -1,8 +1,6 @@
 package com.learm.myself.springjpa.services;
 
-import com.learm.myself.springjpa.UserDTO;
-
-import java.util.List;
+import com.learm.myself.springjpa.DTO.UserDTO;
 
 public interface UserServices {
 
