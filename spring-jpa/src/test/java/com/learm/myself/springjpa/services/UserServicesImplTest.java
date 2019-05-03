@@ -16,8 +16,10 @@ public class UserServicesImplTest {
 
     @Test
     public void test() throws Exception {
-       // Assert.assertEquals(1, userServices.findUserById(1));
-        userServices.deleteUserDTOByName("yuan");
+        userServices.findUserById(3);
+        userServices.findUserById(3);
+        userServices.findUserById(3);
+        userServices.findUserById(3);
     }
 
 
